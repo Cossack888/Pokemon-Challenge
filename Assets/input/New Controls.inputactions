@@ -1,0 +1,435 @@
+{
+    "name": "New Controls",
+    "maps": [
+        {
+            "name": "GamePadController",
+            "id": "0c14728d-1ad8-4521-9bb0-043ddb7b5404",
+            "actions": [
+                {
+                    "name": "Move",
+                    "type": "Value",
+                    "id": "6136f9cf-c6cc-4fac-9b73-04d3934010b6",
+                    "expectedControlType": "Vector2",
+                    "processors": "StickDeadzone,NormalizeVector2",
+                    "interactions": "Press",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "Attack",
+                    "type": "Button",
+                    "id": "84115b6c-63c2-4c65-b2de-d04fb0ae2743",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Jump",
+                    "type": "Button",
+                    "id": "e9ebaaaa-533b-4eba-94de-9484afbf5777",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "Hold(duration=0.05)",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "ChangeMusic",
+                    "type": "Button",
+                    "id": "35fc7880-6c5e-48ee-bb56-9fc624d3cc91",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Switch Convo",
+                    "type": "Button",
+                    "id": "333f39eb-3c85-4d43-99c2-34339f28244c",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "Press",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Dash",
+                    "type": "Button",
+                    "id": "4a827606-fa01-4f50-9553-70e5cfe69ab0",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "FlipLeft",
+                    "type": "Button",
+                    "id": "792c2a55-3a84-4d1f-98de-0aebaf8a89e4",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "FlipRight",
+                    "type": "Button",
+                    "id": "bccf14a3-1779-4eb8-bf66-7d8ccd585a5b",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Lightning",
+                    "type": "Button",
+                    "id": "6202a145-5504-4cd7-a611-b20ac400bda6",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Lightning Ball",
+                    "type": "Button",
+                    "id": "790d679e-ec4d-4aed-b0c0-d43ec16f0e48",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Block",
+                    "type": "Button",
+                    "id": "b4c4e0af-02fc-4193-af48-f34eb08b4621",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Skip",
+                    "type": "Button",
+                    "id": "4c2c2d7c-0599-4636-ad04-0a5ea77edc02",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "AdjustVolume",
+                    "type": "Value",
+                    "id": "7da8ad7a-85d4-4309-bc26-a768d699b4a4",
+                    "expectedControlType": "Vector2",
+                    "processors": "StickDeadzone",
+                    "interactions": "Press",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "2D Vector",
+                    "id": "a7bc1d39-6813-40d8-a261-0027c5eef35b",
+                    "path": "2DVector",
+                    "interactions": "Hold(duration=0.1)",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Move",
+                    "isComposite": true,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "up",
+                    "id": "832f001c-2f2d-4674-b906-4580c2512edd",
+                    "path": "<Keyboard>/w",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Controller",
+                    "action": "Move",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "down",
+                    "id": "655cd1a9-05ed-4a35-9085-89a7e76d10f9",
+                    "path": "<Keyboard>/s",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Controller",
+                    "action": "Move",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "left",
+                    "id": "a6b46391-a6c9-4c3a-8d02-3306bffaeec5",
+                    "path": "<Keyboard>/a",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Controller",
+                    "action": "Move",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "right",
+                    "id": "e45bcef2-65bb-44b5-a623-7fc175b6df57",
+                    "path": "<Keyboard>/d",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Controller",
+                    "action": "Move",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "",
+                    "id": "c0c2cf1a-ffa6-4425-bfa2-6225b62353cc",
+                    "path": "<Gamepad>/leftStick",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Controller",
+                    "action": "Move",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "6aecd234-5218-4019-8d41-71b168b65fb5",
+                    "path": "<Gamepad>/buttonWest",
+                    "interactions": "Press",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Attack",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "f6a1a007-856d-4b68-b95f-eb4b248f671d",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Controller",
+                    "action": "Jump",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "474cda80-7100-4a25-a955-6ab19e55ebf0",
+                    "path": "<Gamepad>/buttonSouth",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Jump",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "7f028cfe-b086-45aa-b79a-336ea093caae",
+                    "path": "<Gamepad>/leftShoulder",
+                    "interactions": "Hold(duration=0.2)",
+                    "processors": "",
+                    "groups": "Controller",
+                    "action": "ChangeMusic",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "a64c94aa-ffca-4919-ba6e-64424cb9f1fe",
+                    "path": "<Gamepad>/buttonSouth",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Controller",
+                    "action": "Switch Convo",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "944f6a6b-c7c5-48f2-a899-53ccc0dd15b2",
+                    "path": "<Gamepad>/buttonEast",
+                    "interactions": "Press",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Dash",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "ee3f8991-b63b-4408-8987-b106bc51c066",
+                    "path": "<Gamepad>/leftStick/left",
+                    "interactions": "Press",
+                    "processors": "",
+                    "groups": "",
+                    "action": "FlipLeft",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "42814091-a4b1-4c55-9ab5-069db045fc5f",
+                    "path": "<Gamepad>/leftStick/right",
+                    "interactions": "Press",
+                    "processors": "",
+                    "groups": "",
+                    "action": "FlipRight",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "7b60bace-1a82-45b8-9c5b-138f1af28e0a",
+                    "path": "<Gamepad>/buttonNorth",
+                    "interactions": "Press",
+                    "processors": "",
+                    "groups": "Controller",
+                    "action": "Lightning",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "c9436005-bf56-4b6e-bd8e-f93b86392c54",
+                    "path": "<Gamepad>/buttonNorth",
+                    "interactions": "Hold",
+                    "processors": "",
+                    "groups": "Controller",
+                    "action": "Lightning Ball",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "432fb1d6-cac5-4a16-ad54-b8d5a65176db",
+                    "path": "<Gamepad>/leftTrigger",
+                    "interactions": "Hold(duration=0.2)",
+                    "processors": "",
+                    "groups": "Controller",
+                    "action": "Block",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "1f1e9b00-dc00-4ff6-a561-1de34d66a46d",
+                    "path": "<Gamepad>/buttonSouth",
+                    "interactions": "Press",
+                    "processors": "",
+                    "groups": "Controller",
+                    "action": "Skip",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "1e78abb1-d7b7-4185-b40f-6bcb8d2432a1",
+                    "path": "<Gamepad>/rightStick",
+                    "interactions": "Press",
+                    "processors": "",
+                    "groups": "Controller",
+                    "action": "AdjustVolume",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "2D Vector",
+                    "id": "183e1090-c106-41ea-90fa-df4d04423a26",
+                    "path": "2DVector(mode=1)",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "AdjustVolume",
+                    "isComposite": true,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "up",
+                    "id": "a4a8226b-0ff4-4108-b15b-98ab522f67bf",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "AdjustVolume",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "down",
+                    "id": "4749982f-b7d1-474c-8d94-44feee4e78cb",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "AdjustVolume",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "left",
+                    "id": "b457a750-8dcc-4851-a50f-0b5974692df5",
+                    "path": "<Gamepad>/rightStick/left",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Controller",
+                    "action": "AdjustVolume",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "right",
+                    "id": "7947bcc8-783b-4c30-8f5a-d062328af8da",
+                    "path": "<Gamepad>/rightStick/right",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Controller",
+                    "action": "AdjustVolume",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                }
+            ]
+        },
+        {
+            "name": "MEnu",
+            "id": "92c6ddad-bab2-4ad4-826d-0ed6f70d082d",
+            "actions": [
+                {
+                    "name": "Respawn",
+                    "type": "Button",
+                    "id": "9a5e7b71-c4ae-4acb-9609-bb9971739cb8",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "Press",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "5bc135fd-e978-4b90-9699-deedd6e01963",
+                    "path": "<Gamepad>/buttonSouth",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Controller",
+                    "action": "Respawn",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": [
+        {
+            "name": "Controller",
+            "bindingGroup": "Controller",
+            "devices": [
+                {
+                    "devicePath": "<XboxOneGampadiOS>",
+                    "isOptional": false,
+                    "isOR": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,871 @@
+fileFormatVersion: 2
+guid: 985c49956b95eef4cb9ec7c5d0c4bc62
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wii - A Boy and His Blob - Bird_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 3845
+        width: 492
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538c27a4b3df4c844a7939884edfe6b7
+      internalID: -779588086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - A Boy and His Blob - Bird_1
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 3846
+        width: 476
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415d7176b4005d74790b37ba22d34a0c
+      internalID: -333198298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - A Boy and His Blob - Bird_2
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 3844
+        width: 441
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c51b7a38955204ab393df9effb039b
+      internalID: -1900599462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - A Boy and His Blob - Bird_3
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 3842
+        width: 472
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ad248c4afe48341bd245716d1b64aa
+      internalID: -1445926834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - A Boy and His Blob - Bird_4
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 3836
+        width: 465
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c840bef7b3f4cf546937b7e71042712c
+      internalID: -1093880696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - A Boy and His Blob - Bird_5
+      rect:
+        serializedVersion: 2
+        x: 2383
+        y: 3807
+        width: 367
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eedc4b788bbf3743994a46256d8a76e
+      internalID: 608164079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - A Boy and His Blob - Bird_6
+      rect:
+        serializedVersion: 2
+        x: 2802
+        y: 3799
+        width: 443
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ee4f076219573458be8307520b6caa
+      internalID: -1813083023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - A Boy and His Blob - Bird_7
+      rect:
+        serializedVersion: 2
+        x: 3266
+        y: 3792
+        width: 484
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8bd7209db64cf242b151ef6caa1de07
+      internalID: -162317121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - A Boy and His Blob - Bird_8
+      rect:
+        serializedVersion: 2
+        x: 3777
+        y: 3818
+        width: 502
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0483fdcc882d5794d845679c7feb5a2d
+      internalID: 1619815446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - A Boy and His Blob - Bird_9
+      rect:
+        serializedVersion: 2
+        x: 4302
+        y: 3792
+        width: 500
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5759b5f803cefe34ba126f0c145b9d7a
+      internalID: 725232751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - A Boy and His Blob - Bird_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3451
+        width: 483
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3baa798f366675049b309f49aff1c7f1
+      internalID: 997901635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - A Boy and His Blob - Bird_11
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 3386
+        width: 572
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c854648aa07b154e96b7111f48a8494
+      internalID: -322550917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - A Boy and His Blob - Bird_12
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 3386
+        width: 491
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ba8da479c8cb84fa7fc8db4ab1b1a1
+      internalID: -835401709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - A Boy and His Blob - Bird_13
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 3395
+        width: 522
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9932b161fd61a2940b6b1b4405b9f921
+      internalID: 1489012394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - A Boy and His Blob - Bird_14
+      rect:
+        serializedVersion: 2
+        x: 2353
+        y: 3388
+        width: 498
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7269c2a42de50498c1a8656803dfa2
+      internalID: 1524920414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - A Boy and His Blob - Bird_15
+      rect:
+        serializedVersion: 2
+        x: 2971
+        y: 3395
+        width: 508
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562e1a92ec49ef742aeb964793873311
+      internalID: -9889740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - A Boy and His Blob - Bird_16
+      rect:
+        serializedVersion: 2
+        x: 3597
+        y: 3386
+        width: 487
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db0af1352a4d4741be7e6b3d1ead25d
+      internalID: 1372920834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - A Boy and His Blob - Bird_17
+      rect:
+        serializedVersion: 2
+        x: 4209
+        y: 3390
+        width: 578
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0707061ed851c5046af43db36e856429
+      internalID: -2057253291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - A Boy and His Blob - Bird_18
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2980
+        width: 600
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0bfb2a989863849bf23cde769c33dc
+      internalID: 66764288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - A Boy and His Blob - Bird_19
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 2971
+        width: 583
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11466b5ce8fc20a478dc39e38d632273
+      internalID: 406520616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - A Boy and His Blob - Bird_20
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 2984
+        width: 552
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fbd80c11dcf47244bfc596fecc0d828
+      internalID: -1932770692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - A Boy and His Blob - Bird_21
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 3000
+        width: 548
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f612f477b187d447aa4a92d1224597e
+      internalID: -1536719787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - A Boy and His Blob - Bird_22
+      rect:
+        serializedVersion: 2
+        x: 2403
+        y: 3006
+        width: 539
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1747688b62d6f8e41bdc7d0b2ae7431c
+      internalID: -1300891084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - A Boy and His Blob - Bird_23
+      rect:
+        serializedVersion: 2
+        x: 3001
+        y: 2997
+        width: 515
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4caa462c48f27842926fc1693ea1554
+      internalID: -1103933607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - A Boy and His Blob - Bird_24
+      rect:
+        serializedVersion: 2
+        x: 3577
+        y: 3021
+        width: 532
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90ad9e8088560242beef1fad0f250dc
+      internalID: -315182783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - A Boy and His Blob - Bird_25
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1678
+        width: 387
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f60a6fa4ce5c5246a6df77d1f1521e6
+      internalID: -949082509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - A Boy and His Blob - Bird_26
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1678
+        width: 375
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd2320cc9230b44e9170022daf979aa
+      internalID: 1786345342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - A Boy and His Blob - Bird_27
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 1678
+        width: 528
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 267606aa44021f845a0838fa18d7a786
+      internalID: -1160984282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - A Boy and His Blob - Bird_28
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 1640
+        width: 486
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1941645ba762ff40ade0e083a4a49cd
+      internalID: -612761897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - A Boy and His Blob - Bird_29
+      rect:
+        serializedVersion: 2
+        x: 2123
+        y: 1687
+        width: 503
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c07561133e9a9439fa868fc94ba805
+      internalID: 109198297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - A Boy and His Blob - Bird_30
+      rect:
+        serializedVersion: 2
+        x: 2677
+        y: 1687
+        width: 489
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52693eee8599f8c4384739e85d3798b0
+      internalID: 622077307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - A Boy and His Blob - Bird_31
+      rect:
+        serializedVersion: 2
+        x: 3171
+        y: 1699
+        width: 511
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf797530472302d4493f7748af3b5255
+      internalID: 965981350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - A Boy and His Blob - Bird_32
+      rect:
+        serializedVersion: 2
+        x: 3673
+        y: 1670
+        width: 528
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f83bbbc7b81953469a4ac5157127a1a
+      internalID: 369755431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - A Boy and His Blob - Bird_33
+      rect:
+        serializedVersion: 2
+        x: 4197
+        y: 1678
+        width: 520
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3daf7ab119a98084ca66bd8acc33a67e
+      internalID: 741503254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Wii - A Boy and His Blob - Bird_4: -1093880696
+      Wii - A Boy and His Blob - Bird_24: -315182783
+      Wii - A Boy and His Blob - Bird_21: -1536719787
+      Wii - A Boy and His Blob - Bird_17: -2057253291
+      Wii - A Boy and His Blob - Bird_19: 406520616
+      Wii - A Boy and His Blob - Bird_20: -1932770692
+      Wii - A Boy and His Blob - Bird_31: 965981350
+      Wii - A Boy and His Blob - Bird_16: 1372920834
+      Wii - A Boy and His Blob - Bird_10: 997901635
+      Wii - A Boy and His Blob - Bird_11: -322550917
+      Wii - A Boy and His Blob - Bird_32: 369755431
+      Wii - A Boy and His Blob - Bird_29: 109198297
+      Wii - A Boy and His Blob - Bird_6: -1813083023
+      Wii - A Boy and His Blob - Bird_26: 1786345342
+      Wii - A Boy and His Blob - Bird_9: 725232751
+      Wii - A Boy and His Blob - Bird_12: -835401709
+      Wii - A Boy and His Blob - Bird_13: 1489012394
+      Wii - A Boy and His Blob - Bird_27: -1160984282
+      Wii - A Boy and His Blob - Bird_23: -1103933607
+      Wii - A Boy and His Blob - Bird_2: -1900599462
+      Wii - A Boy and His Blob - Bird_28: -612761897
+      Wii - A Boy and His Blob - Bird_30: 622077307
+      Wii - A Boy and His Blob - Bird_8: 1619815446
+      Wii - A Boy and His Blob - Bird_1: -333198298
+      Wii - A Boy and His Blob - Bird_15: -9889740
+      Wii - A Boy and His Blob - Bird_22: -1300891084
+      Wii - A Boy and His Blob - Bird_7: -162317121
+      Wii - A Boy and His Blob - Bird_14: 1524920414
+      Wii - A Boy and His Blob - Bird_18: 66764288
+      Wii - A Boy and His Blob - Bird_33: 741503254
+      Wii - A Boy and His Blob - Bird_3: -1445926834
+      Wii - A Boy and His Blob - Bird_25: -949082509
+      Wii - A Boy and His Blob - Bird_0: -779588086
+      Wii - A Boy and His Blob - Bird_5: 608164079
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

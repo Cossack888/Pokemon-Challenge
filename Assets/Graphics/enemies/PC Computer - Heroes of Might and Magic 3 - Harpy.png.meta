@@ -1,0 +1,1047 @@
+fileFormatVersion: 2
+guid: 95fd10de2b0fa0142bad68224b835e2e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 70
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Harpy_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 942
+        width: 73
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03bb9572a45269b4aa2dbc5560a9f495
+      internalID: 1591867774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Harpy_1
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 938
+        width: 85
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba77cc3bd2982c64eac56a02a647f820
+      internalID: 1970881358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Harpy_2
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 939
+        width: 88
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c687628d2e59de408519329b5d51988
+      internalID: 64599982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Harpy_3
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 941
+        width: 86
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1e5054e8606654c9519746382a23c1
+      internalID: -1578302847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Harpy_4
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 938
+        width: 100
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fec35e1a64349a4b90b96bb3fb45882
+      internalID: -2045805842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Harpy_5
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 939
+        width: 70
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75279de3e731cf443ba54bb27673d810
+      internalID: -270448547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Harpy_6
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 950
+        width: 85
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc27ef796f8602d439025be26addad12
+      internalID: -219726632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Harpy_7
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 933
+        width: 70
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3733241e94935428a00ff925a392ba
+      internalID: 2128787481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Harpy_8
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 928
+        width: 95
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911c65d356f943f4299834284e7aea12
+      internalID: 1964526318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Harpy_9
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 800
+        width: 101
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ecfdd84405c0c8488704b1f293b023a
+      internalID: 1914400132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Harpy_10
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 803
+        width: 120
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448c0fa333732794f861b1a704333859
+      internalID: 1581454532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Harpy_11
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 818
+        width: 120
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a37d8d189322e14897bf82a9175a8f8
+      internalID: -1393956573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Harpy_12
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 812
+        width: 108
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d010f997f3d8c4d8d69d3e91a0b385
+      internalID: 594149962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Harpy_13
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 822
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265246b063763c5419c7fff7550cea12
+      internalID: -1737616196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Harpy_14
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 816
+        width: 82
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797a126f0237a9e4eb4d8cbeee401f63
+      internalID: 753456531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Harpy_15
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 800
+        width: 124
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b390f1dc507bf46a6c43e1f9e7540a
+      internalID: -1366123169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Harpy_16
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 809
+        width: 96
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a359827a411b5c44ea844eeb2d46e83a
+      internalID: 1726294994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Harpy_17
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 798
+        width: 102
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff1fafbd7257f245a01f7022c8a3caf
+      internalID: -1892721127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Harpy_18
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 810
+        width: 126
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef86c44a1f8d2504d86a8650d578babc
+      internalID: -682924109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Harpy_19
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 819
+        width: 88
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863d71a9d9d340c47aa9f9b2067b1040
+      internalID: 1716620574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Harpy_20
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 810
+        width: 93
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93f06fb8a8d6474b9f72c542e7da861
+      internalID: -1411196277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Harpy_21
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 797
+        width: 58
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8504b5d79e76c6e42aee41cb5466db44
+      internalID: 405433270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Harpy_22
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 665
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82317da7fde196e4ab26eab88268bb63
+      internalID: -1852879819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Harpy_23
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 656
+        width: 122
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d719d241a6794742a1d46d9583cca64
+      internalID: -444480795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Harpy_24
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 676
+        width: 115
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d23b64bbe598f4cb50ae1a0ceeb806
+      internalID: -2079144699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Harpy_25
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 675
+        width: 130
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34dbc3dd901b524f8be6327e39a7251
+      internalID: -1506634732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Harpy_26
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 681
+        width: 121
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25eef40f0e831764191825f212017612
+      internalID: -1760100842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Harpy_27
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 684
+        width: 91
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2c9ee4dc1ec5e4f906d513a1a6d3a6
+      internalID: 693979049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Harpy_28
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 700
+        width: 116
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e72de158775cf44b96fa08ae3ff853c
+      internalID: 2004357113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Harpy_29
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 685
+        width: 95
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e8dbb8f3d96ec48b10e98484c7f081
+      internalID: -880007750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Harpy_30
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 684
+        width: 92
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661a873934cf4ac49b5fba6c78e9d486
+      internalID: 2043380599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Harpy_31
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 666
+        width: 117
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb41f4c4519b1184faccb830b38bb3e5
+      internalID: 1563953142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Harpy_32
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 530
+        width: 88
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db5f6e1d38095645b9c370821ccad94
+      internalID: 932373430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Harpy_33
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 540
+        width: 127
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12c7bc81a2929c44bde7aa8197f33fa
+      internalID: -1271734579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Harpy_34
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 537
+        width: 119
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0726d20b3cac7634b929fb2a463beaef
+      internalID: -1723440584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Harpy_35
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 542
+        width: 107
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe213ee6b91c1a479c33b12ce965e20
+      internalID: -1911410860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Harpy_36
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 527
+        width: 96
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3192992e37cb9478e850c255c681d9
+      internalID: 36667739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Harpy_37
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 540
+        width: 104
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d84306fb2f20c4bafab0a5df7a8c0a
+      internalID: 71623116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Harpy_38
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 546
+        width: 87
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d859def3d5ec8468962a1036f4f107
+      internalID: 1552724149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Harpy_39
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 540
+        width: 90
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206629e7eaafe2d4fa04006ecb82e79f
+      internalID: 669609267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Harpy_40
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 542
+        width: 102
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac835a35f3c15f428ad48d8f6fcd4e0
+      internalID: 1212203229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Harpy_41
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 528
+        width: 124
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c1f01df3e0cf640b6736c6ea2f2690
+      internalID: 363354736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Heroes of Might and Magic 3 - Harpy_38: 1552724149
+      PC Computer - Heroes of Might and Magic 3 - Harpy_30: 2043380599
+      PC Computer - Heroes of Might and Magic 3 - Harpy_12: 594149962
+      PC Computer - Heroes of Might and Magic 3 - Harpy_7: 2128787481
+      PC Computer - Heroes of Might and Magic 3 - Harpy_16: 1726294994
+      PC Computer - Heroes of Might and Magic 3 - Harpy_28: 2004357113
+      PC Computer - Heroes of Might and Magic 3 - Harpy_17: -1892721127
+      PC Computer - Heroes of Might and Magic 3 - Harpy_29: -880007750
+      PC Computer - Heroes of Might and Magic 3 - Harpy_37: 71623116
+      PC Computer - Heroes of Might and Magic 3 - Harpy_10: 1581454532
+      PC Computer - Heroes of Might and Magic 3 - Harpy_22: -1852879819
+      PC Computer - Heroes of Might and Magic 3 - Harpy_19: 1716620574
+      PC Computer - Heroes of Might and Magic 3 - Harpy_32: 932373430
+      PC Computer - Heroes of Might and Magic 3 - Harpy_0: 1591867774
+      PC Computer - Heroes of Might and Magic 3 - Harpy_2: 64599982
+      PC Computer - Heroes of Might and Magic 3 - Harpy_31: 1563953142
+      PC Computer - Heroes of Might and Magic 3 - Harpy_9: 1914400132
+      PC Computer - Heroes of Might and Magic 3 - Harpy_5: -270448547
+      PC Computer - Heroes of Might and Magic 3 - Harpy_25: -1506634732
+      PC Computer - Heroes of Might and Magic 3 - Harpy_23: -444480795
+      PC Computer - Heroes of Might and Magic 3 - Harpy_15: -1366123169
+      PC Computer - Heroes of Might and Magic 3 - Harpy_11: -1393956573
+      PC Computer - Heroes of Might and Magic 3 - Harpy_24: -2079144699
+      PC Computer - Heroes of Might and Magic 3 - Harpy_39: 669609267
+      PC Computer - Heroes of Might and Magic 3 - Harpy_40: 1212203229
+      PC Computer - Heroes of Might and Magic 3 - Harpy_4: -2045805842
+      PC Computer - Heroes of Might and Magic 3 - Harpy_8: 1964526318
+      PC Computer - Heroes of Might and Magic 3 - Harpy_18: -682924109
+      PC Computer - Heroes of Might and Magic 3 - Harpy_21: 405433270
+      PC Computer - Heroes of Might and Magic 3 - Harpy_27: 693979049
+      PC Computer - Heroes of Might and Magic 3 - Harpy_13: -1737616196
+      PC Computer - Heroes of Might and Magic 3 - Harpy_34: -1723440584
+      PC Computer - Heroes of Might and Magic 3 - Harpy_6: -219726632
+      PC Computer - Heroes of Might and Magic 3 - Harpy_26: -1760100842
+      PC Computer - Heroes of Might and Magic 3 - Harpy_41: 363354736
+      PC Computer - Heroes of Might and Magic 3 - Harpy_14: 753456531
+      PC Computer - Heroes of Might and Magic 3 - Harpy_1: 1970881358
+      PC Computer - Heroes of Might and Magic 3 - Harpy_3: -1578302847
+      PC Computer - Heroes of Might and Magic 3 - Harpy_20: -1411196277
+      PC Computer - Heroes of Might and Magic 3 - Harpy_35: -1911410860
+      PC Computer - Heroes of Might and Magic 3 - Harpy_33: -1271734579
+      PC Computer - Heroes of Might and Magic 3 - Harpy_36: 36667739
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

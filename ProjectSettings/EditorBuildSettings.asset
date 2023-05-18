@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/I Screen.unity
+    guid: 26d3e4a49efd4794a85a0c98b14b0309
+  - enabled: 1
+    path: Assets/Scenes/interlude I.unity
+    guid: d9bfb990caa264544a52ef74c582bd80
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Intro.unity
+    guid: d8f929d51b15a8d43a5b14c3205694b0
+  - enabled: 1
+    path: Assets/Scenes/I poziom.unity
+    guid: d79519467aa18d84dbbf9a3f693aaeb1
+  - enabled: 1
+    path: Assets/Scenes/Alien Tower.unity
+    guid: 7980b3c46bc31244692e6208b2f78ee5
+  - enabled: 1
+    path: Assets/Scenes/II poziom.unity
+    guid: c5b77d588cd35484dbc399892bbd9ad4
+  - enabled: 1
+    path: Assets/Scenes/arktyka.unity
+    guid: 995d48bdaaf64c14f9eaf01b32fdb55f
+  - enabled: 1
+    path: Assets/Scenes/outro.unity
+    guid: f339db0933398264585535f7aa98a054
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 0a89375b9ad6ae640a58e3947266eaed, type: 2}

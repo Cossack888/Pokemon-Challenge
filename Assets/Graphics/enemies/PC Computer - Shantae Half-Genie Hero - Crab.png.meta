@@ -1,0 +1,805 @@
+fileFormatVersion: 2
+guid: 27c9faf9ed3fb99489fb3ffdefa7e224
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Crab_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 529
+        width: 193
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31776256326c370499e4fde536cc04bc
+      internalID: -1249019686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Crab_1
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 530
+        width: 193
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512122ddcfb973a47be579cf8b88d5ac
+      internalID: 352884254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Crab_2
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 528
+        width: 193
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d7ff4794b315944b1162d8c8df9f57
+      internalID: 1063645992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Crab_3
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 529
+        width: 196
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5313be03de498459b4255aee6b854c
+      internalID: -2005052650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Crab_4
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 528
+        width: 203
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70e403b4402a20488e0c4559f2c214a
+      internalID: -846924258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Crab_5
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 530
+        width: 197
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da560e9b0a4ebe4dbab1c5bb08923d4
+      internalID: 1608888438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Crab_6
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 531
+        width: 197
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56499c0f7a78cb24b9fc1849d225fbce
+      internalID: -1223668868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Crab_7
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 531
+        width: 197
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa7b7350aa7ebe498218f5732d60459
+      internalID: 371839491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Crab_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 387
+        width: 175
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6456976985382894799804a82670fc67
+      internalID: 1930092119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Crab_9
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 389
+        width: 177
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d25505580ca0244eab4b88a20a05858
+      internalID: -26316666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Crab_10
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 388
+        width: 182
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f054ac9ea790a7c4ca99adb06943c094
+      internalID: -2037102813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Crab_11
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 391
+        width: 182
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7b62c0b6e869d4bb76ad3bf68ea77b
+      internalID: 2030753615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Crab_12
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 390
+        width: 187
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4dfc8de6b56e24aa7f1cd8af845c9a
+      internalID: 1936655662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Crab_13
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 389
+        width: 192
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3cb64283ace7145bf0fd56db912d51
+      internalID: -390642516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Crab_14
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 387
+        width: 189
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b675ff03ffebd9b498fc1a47e4511099
+      internalID: 146809419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Crab_15
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 389
+        width: 190
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e057045de878d4397a3366141e3659
+      internalID: -1685122976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Crab_16
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 391
+        width: 190
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4d967982baef444a1ae6c4f97a7735
+      internalID: 153839366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Crab_17
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 248
+        width: 176
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dcc54a6f57c29d4a8d77b880b47c380
+      internalID: -1087253786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Crab_18
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 249
+        width: 170
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f18c48a4207694f8a48860a09c53b7
+      internalID: 2023035759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Crab_19
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 248
+        width: 175
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84ff942bf27c904ebf4496b6bf589e1
+      internalID: 1117500978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Crab_20
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 251
+        width: 174
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643170dccdc70a449ac38b12de6a58b3
+      internalID: -2060023862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Crab_21
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 251
+        width: 177
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799e65155e10d9a4596486ebd0c206a3
+      internalID: -55997686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Crab_22
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 250
+        width: 172
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eedf0f912250a7f4a92c7296e62b3869
+      internalID: 86478664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Crab_23
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 249
+        width: 178
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13116e98e5d50284eb04ea285623bdf8
+      internalID: -801884480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Crab_24
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 251
+        width: 170
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf2c119d0e1ae3468f7f1eeeb93a8ef
+      internalID: -1884611967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Crab_25
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 250
+        width: 173
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a09de6c92a9b941854632457b76e90
+      internalID: 634017071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Crab_26
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 251
+        width: 176
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00167d2a0b3de04b9892c373402d6a8
+      internalID: 1007414933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Crab_27
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 250
+        width: 172
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840d4b59117c2164b9ee859f68379569
+      internalID: 2046134496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Crab_28
+      rect:
+        serializedVersion: 2
+        x: 1993
+        y: 251
+        width: 178
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96c090e3fcb4cc4d83d378e2a3355d9
+      internalID: 1816242926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Crab_29
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 127
+        width: 171
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8550e2297fd5f7640a38223bc3eab309
+      internalID: -1005240901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shantae Half-Genie Hero - Crab_30
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 174
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784b22aeace713848ad9557a5a455f39
+      internalID: -2122994732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Shantae Half-Genie Hero - Crab_4: -846924258
+      PC Computer - Shantae Half-Genie Hero - Crab_16: 153839366
+      PC Computer - Shantae Half-Genie Hero - Crab_24: -1884611967
+      PC Computer - Shantae Half-Genie Hero - Crab_2: 1063645992
+      PC Computer - Shantae Half-Genie Hero - Crab_19: 1117500978
+      PC Computer - Shantae Half-Genie Hero - Crab_1: 352884254
+      PC Computer - Shantae Half-Genie Hero - Crab_7: 371839491
+      PC Computer - Shantae Half-Genie Hero - Crab_14: 146809419
+      PC Computer - Shantae Half-Genie Hero - Crab_18: 2023035759
+      PC Computer - Shantae Half-Genie Hero - Crab_27: 2046134496
+      PC Computer - Shantae Half-Genie Hero - Crab_29: -1005240901
+      PC Computer - Shantae Half-Genie Hero - Crab_28: 1816242926
+      PC Computer - Shantae Half-Genie Hero - Crab_23: -801884480
+      PC Computer - Shantae Half-Genie Hero - Crab_8: 1930092119
+      PC Computer - Shantae Half-Genie Hero - Crab_10: -2037102813
+      PC Computer - Shantae Half-Genie Hero - Crab_6: -1223668868
+      PC Computer - Shantae Half-Genie Hero - Crab_30: -2122994732
+      PC Computer - Shantae Half-Genie Hero - Crab_15: -1685122976
+      PC Computer - Shantae Half-Genie Hero - Crab_11: 2030753615
+      PC Computer - Shantae Half-Genie Hero - Crab_3: -2005052650
+      PC Computer - Shantae Half-Genie Hero - Crab_0: -1249019686
+      PC Computer - Shantae Half-Genie Hero - Crab_26: 1007414933
+      PC Computer - Shantae Half-Genie Hero - Crab_22: 86478664
+      PC Computer - Shantae Half-Genie Hero - Crab_20: -2060023862
+      PC Computer - Shantae Half-Genie Hero - Crab_21: -55997686
+      PC Computer - Shantae Half-Genie Hero - Crab_17: -1087253786
+      PC Computer - Shantae Half-Genie Hero - Crab_25: 634017071
+      PC Computer - Shantae Half-Genie Hero - Crab_13: -390642516
+      PC Computer - Shantae Half-Genie Hero - Crab_12: 1936655662
+      PC Computer - Shantae Half-Genie Hero - Crab_9: -26316666
+      PC Computer - Shantae Half-Genie Hero - Crab_5: 1608888438
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

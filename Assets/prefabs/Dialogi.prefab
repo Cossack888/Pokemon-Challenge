@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7702933737310188965
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7702933737310188963}
+  - component: {fileID: 7702933737310188962}
+  m_Layer: 0
+  m_Name: Dialogi
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7702933737310188963
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7702933737310188965}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1265.5497, y: 258.35938, z: -2.2345278}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7702933737310188962
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7702933737310188965}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad63b3c929ab0d40a2d348acc74fde2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dialog: {fileID: 0}
+  text1: "Witaj. Nazywam sie Ash, ale to ju\u017C pewnie wiesz. Masz przed sob\u0105
+    wspania\u0142\u0105 przygod\u0119."
+  text2: "Na czas zabawy oddaj\u0119 Ci pod kontrol\u0119 mojego wiernego towarzysza
+    Pikatchu."
+  text3: "Prosz\u0119 dbaj o niego..."
+  text4: "U\u017Cyj lewej ga\u0142ki kontrolera aby zebra\u0107 monety z lewej i
+    prawej."
+  text5: "Brawo! Teraz u\u017Cyj przycisku \"A\" aby podskoczy\u0107 i zebra\u0107
+    trzeci\u0105 monet\u0119."
+  text6: "\u015Awietnie! Jeste\u015B ju\u017C zawodowcem ! Teraz dosta\u0144 si\u0119
+    do czwartej monety. Musisz wskoczy\u0107 w tym celu na platform\u0119"
+  text7: "Bardzo dobrze! Teraz nic nie stoi Ci na drodze. Ruszaj przed siebie. B\u0119d\u0119
+    Ci kibicowa\u0142."
+  text8: "Oj, uwa\u017Caj! Ten krab nie ma dobrych zamiar\xF3w."
+  text9: "Mo\u017Cesz go przeskoczy\u0107 lub usun\u0105\u0107 ze swojej drogi naciskaj\u0105c
+    \"X\""
+  text10: "Idzie Ci coraz lepiej! Uwa\u017Caj na te ogniska! Aby bezpiecznie przez
+    nie przej\u015B\u0107 u\u017Cyj przycisku \"B\""
+  text11: 
+  text12: 
+  text13: 
+  text14: 
+  text15: 
+  text16: 
+  text17: 
+  text18: 
+  text19: 
+  text20: 
+  textNumber: 0
+  inDialogue: 0
+  monologue: {fileID: 0}
+  gameState: 0

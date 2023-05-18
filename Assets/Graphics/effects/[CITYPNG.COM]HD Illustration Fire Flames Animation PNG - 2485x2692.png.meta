@@ -1,0 +1,387 @@
+fileFormatVersion: 2
+guid: e444c31c233eb844e888550c0dd70a02
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '[CITYPNG.COM]HD Illustration Fire Flames Animation PNG - 2485x2692_0'
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1888
+        width: 371
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9b876e49c6685418cacded5979edcf
+      internalID: 1519688872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[CITYPNG.COM]HD Illustration Fire Flames Animation PNG - 2485x2692_1'
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1852
+        width: 471
+        height: 754
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf76a38eb0abab41bcf45af479fc4a0
+      internalID: 2137041665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[CITYPNG.COM]HD Illustration Fire Flames Animation PNG - 2485x2692_2'
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 1821
+        width: 539
+        height: 778
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd4b4a41141cbf4ab434d9930c75705
+      internalID: 1180982185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[CITYPNG.COM]HD Illustration Fire Flames Animation PNG - 2485x2692_3'
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 1781
+        width: 555
+        height: 815
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dae29e19c9b254409a8c41baef9e955
+      internalID: -1612189164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[CITYPNG.COM]HD Illustration Fire Flames Animation PNG - 2485x2692_4'
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1064
+        width: 454
+        height: 616
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dbb396d31280334e84c4a525da61c46
+      internalID: -680327366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[CITYPNG.COM]HD Illustration Fire Flames Animation PNG - 2485x2692_5'
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 1018
+        width: 457
+        height: 699
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a06f655d371f2f4b977751b9c37fbe2
+      internalID: 269931356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[CITYPNG.COM]HD Illustration Fire Flames Animation PNG - 2485x2692_6'
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 957
+        width: 521
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a1280b5dbb85640ab9ca2598bdc12e
+      internalID: -2078702770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[CITYPNG.COM]HD Illustration Fire Flames Animation PNG - 2485x2692_7'
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 1036
+        width: 432
+        height: 711
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d080dcbf77cbbe94f8756e1cd3bea3d9
+      internalID: -1352838136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[CITYPNG.COM]HD Illustration Fire Flames Animation PNG - 2485x2692_8'
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 145
+        width: 604
+        height: 741
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0eaaa2f5b7e4142985dcee6d2c8fe8
+      internalID: 1702434109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[CITYPNG.COM]HD Illustration Fire Flames Animation PNG - 2485x2692_9'
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 56
+        width: 496
+        height: 836
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d15494f7ef1f934395c1b349db58c1b
+      internalID: -1169917158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[CITYPNG.COM]HD Illustration Fire Flames Animation PNG - 2485x2692_10'
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 86
+        width: 542
+        height: 791
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e84874b39dd93c43b4fc7737e3dd504
+      internalID: -2369595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[CITYPNG.COM]HD Illustration Fire Flames Animation PNG - 2485x2692_11'
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 68
+        width: 481
+        height: 827
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953614fc0e8a23e439a0984629f42c2c
+      internalID: 448602520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      '[CITYPNG.COM]HD Illustration Fire Flames Animation PNG - 2485x2692_6': -2078702770
+      '[CITYPNG.COM]HD Illustration Fire Flames Animation PNG - 2485x2692_2': 1180982185
+      '[CITYPNG.COM]HD Illustration Fire Flames Animation PNG - 2485x2692_10': -2369595
+      '[CITYPNG.COM]HD Illustration Fire Flames Animation PNG - 2485x2692_9': -1169917158
+      '[CITYPNG.COM]HD Illustration Fire Flames Animation PNG - 2485x2692_0': 1519688872
+      '[CITYPNG.COM]HD Illustration Fire Flames Animation PNG - 2485x2692_11': 448602520
+      '[CITYPNG.COM]HD Illustration Fire Flames Animation PNG - 2485x2692_5': 269931356
+      '[CITYPNG.COM]HD Illustration Fire Flames Animation PNG - 2485x2692_8': 1702434109
+      '[CITYPNG.COM]HD Illustration Fire Flames Animation PNG - 2485x2692_3': -1612189164
+      '[CITYPNG.COM]HD Illustration Fire Flames Animation PNG - 2485x2692_4': -680327366
+      '[CITYPNG.COM]HD Illustration Fire Flames Animation PNG - 2485x2692_7': -1352838136
+      '[CITYPNG.COM]HD Illustration Fire Flames Animation PNG - 2485x2692_1': 2137041665
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
